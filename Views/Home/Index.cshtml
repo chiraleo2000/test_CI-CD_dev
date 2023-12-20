@@ -1,0 +1,17 @@
+﻿@model SimpleCalculatorWeblinux.Models.CalculatorModel
+
+<form asp-action="Calculate" method="post">
+    <input asp-for="Value1" type="number" />
+    <input asp-for="Value2" type="number" />
+    <select asp-for="Operation">
+        <option value="Add">Add</option>
+        <option value="Subtract">Subtract</option>
+        <option value="Multiply">Multiply</option>
+        <option value="Divide">Divide</option>
+    </select>
+    <button type="submit">Calculate</button>
+</form>
+
+<div>
+    Result: @Model.Result
+</div>

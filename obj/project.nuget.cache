@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P4jxT/UuFWdZ0Q381PjOT4KdccXyFdbc4nvZ+u30PdkAyfUyE/2HllYOavOe7mR9ZrIG4cX6//Fw4WBI5JgVeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chirapath\\Documents\\visualstudiocode\\Learning\\C#\\SimpleCalculatorWeblinux\\SimpleCalculatorWeblinux\\SimpleCalculatorWeblinux.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chirapath\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}
